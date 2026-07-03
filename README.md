@@ -13,15 +13,74 @@ Building modern, scalable web applications with clean architecture and exception
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Laravel+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
+<div align="center">
 
+# 👨‍💻 About Me
 
+</div>
 
-## 👨‍💻 About Me
+<p align="center">
+Passionate <strong>Full-Stack Developer</strong> dedicated to building modern,
+high-performance web applications with clean architecture and exceptional user experiences.
+</p>
 
-I'm a Full-Stack Developer passionate about building modern web applications with clean architecture and intuitive user experiences.
+<br>
 
-- 🚀 Specialized in **React**, **Laravel**, and **MySQL**
-- 💻 Focused on writing clean, scalable, and maintainable code
-- 🌱 Currently improving my backend architecture and system design skills
-- 🎯 Interested in Full-Stack Development and UI/UX
-- 📍 Based in Chefchaouen, Morocco
+<table align="center">
+<tr>
+<td>
+
+💼 **Role**
+
+Full-Stack Developer
+
+</td>
+
+<td>
+
+🚀 **Specialized In**
+
+React • Laravel • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌱 **Currently Learning**
+
+Software Architecture & System Design
+
+</td>
+
+<td>
+
+🎯 **Goal**
+
+Build scalable applications used by thousands of users
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+📍 **Location**
+
+Chefchaouen, Morocco
+
+</td>
+
+<td>
+
+📫 **Email**
+
+amraneoubayda@gmail.com
+
+</td>
+</tr>
+
+</table>
+
+---
