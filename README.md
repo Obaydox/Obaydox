@@ -83,4 +83,52 @@ amraneoubayda@gmail.com
 
 </table>
 
+<div align="center">
+
+# 🛠️ Tech Stack
+
+### Technologies I use to design, build and deploy modern applications.
+
+</div>
+
+<br>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+<br>
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<br>
+
+<h3 align="center">🛠️ DevOps & Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode,npm" />
+</p>
+
 ---
+
+<div align="center">
+
+### 💡 Development Philosophy
+
+*"Write clean code, build scalable systems, and create exceptional user experiences."*
+
+</div>
