@@ -87,7 +87,7 @@ amraneoubayda@gmail.com
 
 # 🛠️ Tech Stack
 
-### Technologies I use to design, build and deploy modern applications.
+### Technologies I use to design, build, and deploy modern Full-Stack applications.
 
 </div>
 
@@ -109,6 +109,18 @@ amraneoubayda@gmail.com
 
 <br>
 
+<h3 align="center">🤖 AI & Automation</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+<p align="center">
+<sub>AI Integration • GitHub Models API • GPT-4o • REST API</sub>
+</p>
+
+<br>
+
 <h3 align="center">🗄️ Database</h3>
 
 <p align="center">
@@ -123,12 +135,75 @@ amraneoubayda@gmail.com
 <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,vscode,npm" />
 </p>
 
----
-
 <div align="center">
 
-### 💡 Development Philosophy
+### 💡 Engineering Philosophy
 
-*"Write clean code, build scalable systems, and create exceptional user experiences."*
+*"Building scalable applications with clean architecture, modern technologies, and AI-powered experiences."*
 
 </div>
+<div align="center">
+
+# 🚀 Featured Projects
+
+Projects that showcase my experience in building scalable Full-Stack applications.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌸 Luxe Parfums
+
+Premium luxury fragrance e-commerce platform built with the MERN ecosystem.
+
+**Highlights**
+
+- 🛍 Product Catalog
+- ❤️ Wishlist
+- 🛒 Shopping Cart
+- 📦 Order History
+- 👤 User Profile
+- 🔐 Clerk Authentication
+- 👑 Admin Dashboard
+
+**Tech**
+
+React • Node.js • Express • MongoDB
+
+**Status:** ✅ Completed
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💪 AI Fitness Management System
+
+Modern gym management platform enhanced with AI-powered fitness assistance.
+
+**Highlights**
+
+- 👥 Member Management
+- 🏋️ Trainer Management
+- 📅 Reservations
+- 🤖 AI Fitness Assistant
+- 👑 Admin Dashboard
+- 🔐 Authentication
+- 🌙 Theme Support
+
+**Tech**
+
+React • Laravel • MySQL • Python • Flask • GPT-4o
+
+**Status:** ✅ Completed
+
+</td>
+
+</tr>
+</table>
+
+
