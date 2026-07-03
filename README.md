@@ -137,7 +137,7 @@ amraneoubayda@gmail.com
 
 <div align="center">
 
-### 💡 Engineering Philosophy
+### 💡 stack Philosophy
 
 *"Building scalable applications with clean architecture, modern technologies, and AI-powered experiences."*
 
@@ -146,7 +146,7 @@ amraneoubayda@gmail.com
 
 # 🚀 Featured Projects
 
-Projects that showcase my experience in building scalable Full-Stack applications.
+### Real-world applications showcasing my experience in Full-Stack Development, scalable architectures, and AI integration.
 
 </div>
 
@@ -157,53 +157,68 @@ Projects that showcase my experience in building scalable Full-Stack application
 
 <td width="50%" valign="top">
 
-### 🌸 Luxe Parfums
+## 🌸 Luxe Parfums
 
-Premium luxury fragrance e-commerce platform built with the MERN ecosystem.
+**Premium Luxury Fragrance E-Commerce Platform**
 
-**Highlights**
+A modern full-stack e-commerce application built for luxury perfume shopping, combining a clean user experience with a scalable backend architecture.
 
-- 🛍 Product Catalog
-- ❤️ Wishlist
+### 🚀 Key Features
+
+- 🛍️ Browse Luxury Products
+- ❤️ Wishlist Management
 - 🛒 Shopping Cart
+- 💳 Secure Checkout
 - 📦 Order History
 - 👤 User Profile
 - 🔐 Clerk Authentication
 - 👑 Admin Dashboard
 
-**Tech**
+### ⚙️ Stack
 
-React • Node.js • Express • MongoDB
+`React` `Node.js` `Express.js` `MongoDB`
 
-**Status:** ✅ Completed
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💪 AI Fitness Management System
+## 💪 AI Fitness Management System
 
-Modern gym management platform enhanced with AI-powered fitness assistance.
+**Smart Gym Management Platform with AI Assistant**
 
-**Highlights**
+A complete fitness management platform featuring member management, trainer scheduling, reservations, and an AI-powered fitness assistant.
 
-- 👥 Member Management
-- 🏋️ Trainer Management
+### 🚀 Key Features
+
+- 👥 Members Management
+- 🏋️ Trainers
 - 📅 Reservations
+- 📊 Analytics Dashboard
 - 🤖 AI Fitness Assistant
-- 👑 Admin Dashboard
 - 🔐 Authentication
-- 🌙 Theme Support
+- 🌙 Dark / Light Theme
+- ⚡ Performance Optimizations
 
-**Tech**
+### ⚙️ Stack
 
-React • Laravel • MySQL • Python • Flask • GPT-4o
+`React` `Laravel` `MySQL`
 
-**Status:** ✅ Completed
+`Python` `Flask` `GPT-4o`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
 </table>
-
 
