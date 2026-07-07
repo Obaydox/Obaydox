@@ -346,7 +346,7 @@ Full-Stack Development
 
 <!-- Add your LinkedIn profile here -->
 
-<a href="https://www.linkedin.com/in/amrane-oubayda-9a6392334/" target="_blank">
+<a href="https://www.linkedin.com/in/obaydox" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
